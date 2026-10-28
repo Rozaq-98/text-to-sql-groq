@@ -1,5 +1,4 @@
 import streamlit as st
-import pyodbc
 import psycopg2
 import pandas as pd
 from groq import Groq
